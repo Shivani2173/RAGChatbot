@@ -1,5 +1,7 @@
 # Groww Mutual Fund FAQ RAG Chatbot
 
+🚀 **Live App:** [https://groww-mf-assistant.streamlit.app/](https://groww-mf-assistant.streamlit.app/)
+
 A **facts-only FAQ assistant** for Groww mutual fund schemes, built using
 Retrieval-Augmented Generation (RAG).
 
@@ -136,9 +138,9 @@ RAGChatbot/
 
 ## Known Limitations
 
-- Corpus is static — answers reflect the state of Groww pages at ingestion time
+- **Data Freshness**: The vector database is refreshed automatically every day at 10:30 AM IST via a GitHub Actions cron job.
+- **No real-time NAV**: While data is updated daily, there is no real-time (minute-by-minute) NAV data stream. Mutual fund NAVs are officially updated once per day after market close.
 - Only 7 Groww schemes are covered; other funds will return "not found"
-- No real-time NAV data
 - English queries only
 
 ---
