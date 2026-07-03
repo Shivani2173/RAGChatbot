@@ -1,0 +1,29 @@
+corpus:
+  schemes:
+    - name: "Groww Gold ETF FoF - Direct Growth"
+      url: "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth"
+      category: "Gold / FoF"
+
+    - name: "Groww Nifty India Defence ETF FoF - Direct Growth"
+      url: "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth"
+      category: "Sectoral / Defence"
+
+    - name: "Groww Nifty Total Market Index Fund - Direct Growth"
+      url: "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth"
+      category: "Index / Broad Market"
+
+    - name: "Groww Nifty EV & New Age Automotive ETF FoF - Direct Growth"
+      url: "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth"
+      category: "Sectoral / EV & Auto"
+
+    - name: "Groww Nifty Smallcap 250 Index Fund - Direct Growth"
+      url: "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth"
+      category: "Index / Small Cap"
+
+    - name: "Groww Value Fund - Direct Growth"
+      url: "https://groww.in/mutual-funds/groww-value-fund-direct-growth"
+      category: "Value / Active Equity"
+
+    - name: "Groww Nifty Non-Cyclical Consumer Index Fund - Direct Growth"
+      url: "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth"
+      category: "Index / Consumer"

@@ -1,0 +1,206 @@
+/* ============================================================
+   Groww MF Assistant — Custom CSS (no raw HTML required)
+   Targets Streamlit's own generated elements via data-testid
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif !important;
+}
+
+/* Hide default Streamlit chrome */
+#MainMenu { visibility: hidden; }
+footer    { visibility: hidden; }
+header    { visibility: hidden; }
+
+/* ---- Sidebar ---------------------------------------------- */
+[data-testid="stSidebar"] {
+    background: #161B22 !important;
+    border-right: 1px solid #21262D !important;
+}
+
+[data-testid="stSidebar"] h2 {
+    color: #00D09C !important;
+    font-size: 18px !important;
+    margin-bottom: 2px !important;
+}
+
+[data-testid="stSidebar"] .stCaption,
+[data-testid="stSidebar"] [data-testid="stCaptionContainer"] {
+    color: #8B949E !important;
+    font-size: 11px !important;
+}
+
+/* Sidebar fund list items */
+[data-testid="stSidebar"] li {
+    color: #8B949E;
+    font-size: 13px;
+    padding: 2px 0;
+}
+[data-testid="stSidebar"] li:hover { color: #E6EDF3; }
+
+/* Metrics in sidebar */
+[data-testid="stSidebar"] [data-testid="stMetric"] {
+    background: #1C2333;
+    border: 1px solid #21262D;
+    border-radius: 8px;
+    padding: 8px !important;
+}
+[data-testid="stSidebar"] [data-testid="stMetricLabel"] {
+    font-size: 10px !important;
+    color: #8B949E !important;
+}
+[data-testid="stSidebar"] [data-testid="stMetricValue"] {
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    color: #00D09C !important;
+}
+
+/* Sidebar buttons */
+[data-testid="stSidebar"] button {
+    background: transparent !important;
+    border: 1px solid #00D09C !important;
+    color: #00D09C !important;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    font-size: 13px !important;
+    transition: all 0.15s !important;
+}
+[data-testid="stSidebar"] button:hover {
+    background: rgba(0, 208, 156, 0.1) !important;
+}
+
+/* ---- Main area -------------------------------------------- */
+
+/* Page title */
+h1 {
+    font-size: 26px !important;
+    font-weight: 700 !important;
+    color: #E6EDF3 !important;
+}
+
+/* Warning banner */
+[data-testid="stAlert"][data-baseweb="notification"] {
+    border-radius: 10px !important;
+}
+.stAlert [data-testid="stAlertContentIcon"] { font-size: 16px; }
+
+/* Example query chip buttons */
+[data-testid="stHorizontalBlock"] button {
+    background: #1C2333 !important;
+    border: 1px solid #30363D !important;
+    color: #8B949E !important;
+    border-radius: 20px !important;
+    font-size: 12px !important;
+    padding: 6px 12px !important;
+    transition: all 0.15s !important;
+    white-space: normal !important;
+    word-break: break-word !important;
+    height: auto !important;
+    min-height: 48px !important;
+}
+[data-testid="stHorizontalBlock"] button:hover {
+    border-color: #00D09C !important;
+    color: #00D09C !important;
+    background: rgba(0, 208, 156, 0.08) !important;
+}
+
+/* ---- Chat messages ---------------------------------------- */
+
+/* User chat bubble */
+[data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-user"]) {
+    background: transparent !important;
+    flex-direction: row-reverse !important;
+}
+[data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-user"])
+    [data-testid="stChatMessageContent"] {
+    background: #00D09C !important;
+    border-radius: 18px 18px 4px 18px !important;
+    color: #0D1117 !important;
+    font-weight: 500 !important;
+    max-width: 72% !important;
+    margin-left: auto !important;
+}
+[data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-user"])
+    [data-testid="stChatMessageContent"] p {
+    color: #0D1117 !important;
+}
+
+/* Assistant chat bubble */
+[data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-assistant"]) {
+    background: #1C2333 !important;
+    border: 1px solid #21262D !important;
+    border-left: 3px solid #00D09C !important;
+    border-radius: 4px 12px 12px 12px !important;
+    padding: 14px 16px !important;
+    margin: 8px 0 !important;
+}
+
+/* Success box (factual answer) inside assistant */
+[data-testid="stChatMessage"] .stAlert[kind="success"],
+[data-testid="stChatMessage"] [data-baseweb="notification"][kind="positive"] {
+    background: rgba(0, 208, 156, 0.08) !important;
+    border: 1px solid rgba(0, 208, 156, 0.25) !important;
+    border-radius: 8px !important;
+    color: #C9D1D9 !important;
+}
+
+/* Error/refusal box inside assistant */
+[data-testid="stChatMessage"] .stAlert[kind="error"],
+[data-testid="stChatMessage"] [data-baseweb="notification"][kind="negative"] {
+    background: rgba(248, 81, 73, 0.08) !important;
+    border: 1px solid rgba(248, 81, 73, 0.25) !important;
+    border-radius: 8px !important;
+}
+
+/* Info disclaimer box */
+[data-testid="stChatMessage"] .stAlert[kind="info"],
+[data-testid="stChatMessage"] [data-baseweb="notification"][kind="info"] {
+    background: rgba(210, 153, 34, 0.1) !important;
+    border: 1px solid rgba(210, 153, 34, 0.25) !important;
+    border-radius: 6px !important;
+    font-size: 11px !important;
+}
+
+/* Caption text in chat */
+[data-testid="stChatMessage"] .stCaption,
+[data-testid="stChatMessage"] [data-testid="stCaptionContainer"] {
+    color: #484F58 !important;
+    font-size: 11px !important;
+}
+[data-testid="stChatMessage"] a {
+    color: #00D09C !important;
+}
+
+/* Avatar icons */
+[data-testid="chatAvatarIcon-user"]   { background: #21262D !important; }
+[data-testid="chatAvatarIcon-assistant"] { background: #0D1117 !important; border: 2px solid #00D09C !important; }
+
+/* ---- Chat input ------------------------------------------- */
+[data-testid="stChatInput"] {
+    border: 1px solid #30363D !important;
+    border-radius: 24px !important;
+    background: #1C2333 !important;
+}
+[data-testid="stChatInput"]:focus-within {
+    border-color: #00D09C !important;
+    box-shadow: 0 0 0 2px rgba(0, 208, 156, 0.15) !important;
+}
+[data-testid="stChatInput"] textarea {
+    color: #C9D1D9 !important;
+    font-size: 14px !important;
+}
+[data-testid="stChatInputSubmitButton"] button {
+    background: #00D09C !important;
+    border-radius: 50% !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #0D1117; }
+::-webkit-scrollbar-thumb { background: #30363D; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #484F58; }
+
+/* Dividers */
+hr { border-color: #21262D !important; }

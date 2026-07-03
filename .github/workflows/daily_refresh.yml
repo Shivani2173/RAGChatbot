@@ -1,0 +1,62 @@
+name: Daily Data Refresh
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Triggers
+# ─────────────────────────────────────────────────────────────────────────────
+on:
+  schedule:
+    # 05:00 UTC = 10:30 IST  (UTC+5:30)
+    - cron: "0 5 * * *"
+  workflow_dispatch:        # ← "Run workflow" button in the GitHub Actions tab
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Permissions — needed to push the refreshed index back to the repo
+# ─────────────────────────────────────────────────────────────────────────────
+permissions:
+  contents: write
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Job
+# ─────────────────────────────────────────────────────────────────────────────
+jobs:
+  refresh:
+    name: Refresh FAISS Index
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # 1. Check out the repository at the latest commit
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Set up Python 3.11 with pip cache
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      # 3. Install all project dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. Run the full ingestion pipeline (Phases 2→3→4)
+      #    GROQ_API_KEY is only needed by the LLM (not the ingestion pipeline),
+      #    but is injected here in case future steps need it.
+      - name: Run ingestion pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python -m src.scheduler.pipeline_runner
+
+      # 5. Commit the refreshed vector store, processed data, and run log
+      #    The "[skip ci]" suffix prevents re-triggering this workflow.
+      - name: Commit refreshed index and logs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add vector_store/ data/processed/ data/chunks/ logs/
+          git diff --cached --quiet \
+            || git commit -m "chore: daily FAISS index refresh [skip ci]"
+          git push

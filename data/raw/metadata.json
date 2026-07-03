@@ -1,0 +1,65 @@
+[
+  {
+    "scheme_name": "Groww Gold ETF FoF - Direct Growth",
+    "url": "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth",
+    "category": "Gold / FoF",
+    "slug": "groww_gold_etf_fof",
+    "file": "data/raw/groww_gold_etf_fof.html",
+    "fetched_at": "2026-07-03T06:33:48.346168+00:00",
+    "size_bytes": 235693
+  },
+  {
+    "scheme_name": "Groww Nifty India Defence ETF FoF - Direct Growth",
+    "url": "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth",
+    "category": "Sectoral / Defence",
+    "slug": "groww_nifty_india_defence_etf_fof",
+    "file": "data/raw/groww_nifty_india_defence_etf_fof.html",
+    "fetched_at": "2026-07-03T06:33:49.651411+00:00",
+    "size_bytes": 259084
+  },
+  {
+    "scheme_name": "Groww Nifty Total Market Index Fund - Direct Growth",
+    "url": "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth",
+    "category": "Index / Broad Market",
+    "slug": "groww_nifty_total_market_index_fund",
+    "file": "data/raw/groww_nifty_total_market_index_fund.html",
+    "fetched_at": "2026-07-03T06:33:52.190833+00:00",
+    "size_bytes": 1142975
+  },
+  {
+    "scheme_name": "Groww Nifty EV & New Age Automotive ETF FoF - Direct Growth",
+    "url": "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+    "category": "Sectoral / EV & Auto",
+    "slug": "groww_nifty_ev_new_age_automotive_etf_fof",
+    "file": "data/raw/groww_nifty_ev_new_age_automotive_etf_fof.html",
+    "fetched_at": "2026-07-03T06:33:54.506754+00:00",
+    "size_bytes": 266006
+  },
+  {
+    "scheme_name": "Groww Nifty Smallcap 250 Index Fund - Direct Growth",
+    "url": "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth",
+    "category": "Index / Small Cap",
+    "slug": "groww_nifty_smallcap_250_index_fund",
+    "file": "data/raw/groww_nifty_smallcap_250_index_fund.html",
+    "fetched_at": "2026-07-03T06:33:56.935209+00:00",
+    "size_bytes": 574771
+  },
+  {
+    "scheme_name": "Groww Value Fund - Direct Growth",
+    "url": "https://groww.in/mutual-funds/groww-value-fund-direct-growth",
+    "category": "Value / Active Equity",
+    "slug": "groww_value_fund",
+    "file": "data/raw/groww_value_fund.html",
+    "fetched_at": "2026-07-03T06:33:59.944655+00:00",
+    "size_bytes": 366501
+  },
+  {
+    "scheme_name": "Groww Nifty Non-Cyclical Consumer Index Fund - Direct Growth",
+    "url": "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+    "category": "Index / Consumer",
+    "slug": "groww_nifty_non_cyclical_consumer_index_fund",
+    "file": "data/raw/groww_nifty_non_cyclical_consumer_index_fund.html",
+    "fetched_at": "2026-07-03T06:34:01.897515+00:00",
+    "size_bytes": 305291
+  }
+]

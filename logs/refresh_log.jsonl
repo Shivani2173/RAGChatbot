@@ -1,0 +1,2 @@
+{"run_at": "2026-07-03T06:29:45.422997+00:00", "status": "error", "chunks": 0, "error": "cannot import name 'embed_all' from 'src.ingestion.embedder' (C:\\Users\\Shivani\\OneDrive\\Documents\\RAGChatbot\\src\\ingestion\\embedder.py)", "finished_at": "2026-07-03T06:31:29.223542+00:00", "duration_s": 103.8}
+{"run_at": "2026-07-03T06:33:46.452940+00:00", "status": "success", "chunks": 175, "error": null, "finished_at": "2026-07-03T06:35:25.648881+00:00", "duration_s": 99.2}
