@@ -1,7 +1,7 @@
 Groww Value Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
-NAV: 10 Jul '26
-The expense ratio of this fund is 1.57%.
-Expense Ratio: 1.57%
+NAV: 13 Jul '26
+The expense ratio of this fund is 1.51%.
+Expense Ratio: 1.51%
 The benchmark index tracked by this fund is NIFTY 500 Total Return Index.
 Benchmark Index: NIFTY 500 Total Return Index
 Fund size (AUM)
@@ -113,7 +113,7 @@ Groww Banking & Financial Services Fund Direct Growth
 Groww Multicap Fund Direct Growth
 Groww Small Cap Fund Direct Growth
 Groww Value Fund Direct Growth
-Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,337 Cr and the Latest NAV as of 10 Jul 2026 is ₹33.34.
+Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,548 Cr and the Latest NAV as of 13 Jul 2026 is ₹33.43.
 The Groww Value Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 1% if redeemed within 1 year.
 Investment Objective
 The Scheme seeks to generate returns through a combination of dividend income and capital appreciation by investing primarily in well-diversified portflio of value stocks.
