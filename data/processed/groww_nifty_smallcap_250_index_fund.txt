@@ -1,284 +1,284 @@
 Groww Nifty Smallcap 250 Index Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
-NAV: 13 Jul '26
+NAV: 14 Jul '26
 The expense ratio of this fund is 0.59%.
 Expense Ratio: 0.59%
 The benchmark index tracked by this fund is NIFTY Smallcap 250 Total Return Index.
 Benchmark Index: NIFTY Smallcap 250 Total Return Index
 Fund size (AUM)
+Navin Fluorine International Ltd
 Karur Vysya Bank Ltd
 Sona BLW Precision Forgings Ltd
 Consumer Discretionary
-Navin Fluorine International Ltd
 DEWAN HOUSING FINANCE CORP. LTD. EQ
 Central Depository Services (India) Ltd
-PNB Housing Finance Ltd
-Computer Age Management Services Ltd
-Krishna Institute Of Medical Sciences Ltd
-Bandhan Bank Ltd
-City Union Bank Ltd
-Aster DM Healthcare Ltd
 Ather Energy Ltd.
 Consumer Discretionary
-Crompton Greaves Consumer Electricals Ltd
-Consumer Discretionary
+Krishna Institute Of Medical Sciences Ltd
+City Union Bank Ltd
 Welspun Corp Ltd
 Gland Pharma Ltd
-Manappuram Finance Ltd
+Aster DM Healthcare Ltd
+Kirloskar Oil Engines Ltd
+PNB Housing Finance Ltd
+Computer Age Management Services Ltd
 JB Chemicals & Pharmaceuticals Ltd
-Hindustan Copper Ltd
+Bandhan Bank Ltd
+Ami Organics Ltd
+Manappuram Finance Ltd
+Crompton Greaves Consumer Electricals Ltd
+Consumer Discretionary
+Anand Rathi Wealth Ltd
+Sai Life Sciences Ltd.
 Amber Enterprises India Ltd
 Consumer Discretionary
-Ami Organics Ltd
-Kirloskar Oil Engines Ltd
-Sai Life Sciences Ltd.
+Hindustan Copper Ltd
 Cholamandalam Financial Holdings Ltd
-Kalpataru Power Transmission Ltd
 Neuland Laboratories Ltd
-Anand Rathi Wealth Ltd
 Himadri Speciality Chemical Ltd
-The Great Eastern Shipping Company Ltd
-Energy & Utilities
 Poonawalla Fincorp Ltd
-Indiabulls Housing Finance Ltd
-Narayana Hrudayalaya Ltd
-Timken India Ltd
-Dr. Lal Pathlabs Ltd
-Star Health & Allied Insurance Co. Ltd
-Elgi Equipments Ltd
-Tata Technologies Ltd
-Data Patterns (India) Ltd
-Nuvama Wealth Management Ltd
-Carborundum Universal Ltd
-Tata Chemicals Ltd
-Deepak Nitrite Ltd
-Energy & Utilities
-KFin Technologies Ltd
-Indraprastha Gas Ltd
-Energy & Utilities
-Granules India Ltd
-Craftsman Automation Ltd
-Consumer Discretionary
-ZF Commercial Vehicle Control Systems India Ltd
-Consumer Discretionary
-The Ramco Cements Ltd
-Asahi India Glass Ltd
-Consumer Discretionary
-IIFL Finance Ltd
-Amara Raja Batteries Ltd
-Consumer Discretionary
-Piramal Pharma Ltd
-Jaiprakash Power Ventures Ltd
-Energy & Utilities
-Indian Energy Exchange Ltd
-Onesource Specialty Pharma Ltd
-Motherson Sumi Wiring India Ltd
-Kaynes Technology India Ltd
-PTC Industries Ltd
-Aarti Industries Ltd
-Home First Finance Company India Ltd
-Sagility India Ltd.
-Deepak Fertilisers & Petrochemicals Corporation Ltd
+Kalpataru Power Transmission Ltd
 Aegis Logistics Ltd
 Energy & Utilities
-Force Motors Ltd
-Affle (India) Ltd
-HBL Power Systems Ltd
-Aptus Value Housing Finance India Ltd
-Usha Martin Ltd
-Natco Pharma Ltd
-Brigade Enterprises Ltd
-Kajaria Ceramics Ltd
-Castrol India Ltd
-Five-Star Business Finance Ltd
-Finolex Cables Ltd
-Triveni Turbine Ltd
-Zee Entertainment Enterprises Ltd
-Consumer Discretionary
-IRB Infrastructure Developers Ltd
-Syngene International Ltd
-Syrma SGS Technology Ltd
-Firstsource Solutions Ltd
-Ola Electric Mobility Ltd.
-Consumer Discretionary
-Inventurus Knowledge Solutions Ltd.
-Jubilant Pharmova Ltd
-Reliance Power Ltd
+The Great Eastern Shipping Company Ltd
 Energy & Utilities
-Consumer Staples
-Garden Reach Shipbuilders & Engineers Ltd
-EID-Parry (India) Ltd
-PG Electroplast Ltd
-Aditya Birla Sun Life AMC Ltd
-Netweb Technologies India Ltd.
-Eris Lifesciences Ltd
-Zen Technologies Ltd
-Capri Global Capital Ltd
-Schneider Electric Infrastructure Ltd
+Nuvama Wealth Management Ltd
+Star Health & Allied Insurance Co. Ltd
+Craftsman Automation Ltd
+Consumer Discretionary
+Narayana Hrudayalaya Ltd
+Carborundum Universal Ltd
+Data Patterns (India) Ltd
+Indiabulls Housing Finance Ltd
+Onesource Specialty Pharma Ltd
+Elgi Equipments Ltd
+Dr. Lal Pathlabs Ltd
+Timken India Ltd
+IIFL Finance Ltd
+Granules India Ltd
+KFin Technologies Ltd
+The Ramco Cements Ltd
+Tata Technologies Ltd
+ZF Commercial Vehicle Control Systems India Ltd
+Consumer Discretionary
+Indraprastha Gas Ltd
 Energy & Utilities
-CCL Products (India) Ltd
-Consumer Staples
-Go Digit General Insurance Ltd.
 CarTrade Tech Ltd
 Consumer Discretionary
-Godawari Power & Ispat Ltd
-Suven Pharmaceuticals Ltd
-Chambal Fertilisers & Chemicals Ltd
-CreditAccess Grameen Ltd
-Can Fin Homes Ltd
-Gabriel India Ltd
+Tata Chemicals Ltd
+Home First Finance Company India Ltd
+Syrma SGS Technology Ltd
 Consumer Discretionary
-Rainbow Childrens Medicare Ltd
+Energy & Utilities
+Deepak Nitrite Ltd
+Piramal Pharma Ltd
+Deepak Fertilisers & Petrochemicals Corporation Ltd
+PTC Industries Ltd
+Amara Raja Batteries Ltd
 Consumer Discretionary
-Shyam Metalics and Energy Ltd,
+Asahi India Glass Ltd
 Consumer Discretionary
-Titagarh Wagons Ltd
-Gillette India Ltd
+Motherson Sumi Wiring India Ltd
+Kajaria Ceramics Ltd
+Indian Energy Exchange Ltd
+Aptus Value Housing Finance India Ltd
+Ola Electric Mobility Ltd.
+Consumer Discretionary
+Aditya Infotech Ltd.
+Five-Star Business Finance Ltd
+Kaynes Technology India Ltd
+Zee Entertainment Enterprises Ltd
+Consumer Discretionary
+Aarti Industries Ltd
+Brigade Enterprises Ltd
+HBL Power Systems Ltd
+Sagility India Ltd.
+Usha Martin Ltd
+Affle (India) Ltd
+Force Motors Ltd
+Finolex Cables Ltd
+Castrol India Ltd
+Capri Global Capital Ltd
+Inventurus Knowledge Solutions Ltd.
+PG Electroplast Ltd
+Jaiprakash Power Ventures Ltd
+Energy & Utilities
+Netweb Technologies India Ltd.
+Aditya Birla Sun Life AMC Ltd
+IRB Infrastructure Developers Ltd
+Natco Pharma Ltd
+Syngene International Ltd
+CCL Products (India) Ltd
 Consumer Staples
-Century Textiles & Industries Ltd
-KEC International Ltd
+Zen Technologies Ltd
+CreditAccess Grameen Ltd
+Triveni Turbine Ltd
+Garden Reach Shipbuilders & Engineers Ltd
+Consumer Staples
+Schneider Electric Infrastructure Ltd
+Energy & Utilities
+Jubilant Pharmova Ltd
+Go Digit General Insurance Ltd.
+Eris Lifesciences Ltd
+ACME Solar Holdings Ltd.
+Energy & Utilities
+Suven Pharmaceuticals Ltd
+EID-Parry (India) Ltd
+Can Fin Homes Ltd
+Consumer Discretionary
+Firstsource Solutions Ltd
+ITD Cementation India Ltd
+Reliance Power Ltd
+Energy & Utilities
 Belrise Industries Ltd.
 Consumer Discretionary
-Vijaya Diagnostic Centre Ltd
-Engineers India Ltd
-Whirlpool Of India Ltd
-Consumer Discretionary
+Titagarh Wagons Ltd
+Rainbow Childrens Medicare Ltd
+Chambal Fertilisers & Chemicals Ltd
+Century Textiles & Industries Ltd
 The Jammu & Kashmir Bank Ltd
-Intellect Design Arena Ltd
+Consumer Discretionary
+KEC International Ltd
+Physicswallah Ltd.
+Consumer Staples
 Mahanagar Gas Ltd
 Energy & Utilities
-eClerx Services Ltd
-Indiamart Intermesh Ltd
-Sumitomo Chemical India Ltd
-ITD Cementation India Ltd
-Balrampur Chini Mills Ltd
-Consumer Staples
+Shyam Metalics and Energy Ltd,
+Vijaya Diagnostic Centre Ltd
+Jyoti CNC Automation Ltd.
+Engineers India Ltd
+Intellect Design Arena Ltd
+Poly Medicure Ltd
+Choice International Ltd
+Gabriel India Ltd
+Consumer Discretionary
 Vardhman Textiles Ltd
 Consumer Discretionary
 Consumer Discretionary
 Emcure Pharmaceuticals Ltd.
-Ramkrishna Forgings Ltd
-Bayer CropScience Ltd
-Aditya Infotech Ltd.
-Mahindra CIE Automotive Ltd
-Consumer Discretionary
-Lemon Tree Hotels Ltd
-Consumer Discretionary
-Zensar Technologies Ltd
-Chalet Hotels Ltd
-Consumer Discretionary
-Gujarat Mineral Development Corporation Ltd
+Godawari Power & Ispat Ltd
+Gillette India Ltd
+Consumer Staples
 Honasa Consumer Ltd.
 Consumer Staples
+Whirlpool Of India Ltd
+Consumer Discretionary
+Olectra Greentech Ltd
+Aavas Financiers Ltd
+Balrampur Chini Mills Ltd
+Consumer Staples
 Paradeep Phosphates Ltd
-Fertilisers & Chemicals Travancore Ltd
-Jubilant Ingrevia Ltd
-Akzo Nobel India Ltd
+Indiamart Intermesh Ltd
+Mahindra CIE Automotive Ltd
+Consumer Discretionary
+Chalet Hotels Ltd
+Consumer Discretionary
+Ramkrishna Forgings Ltd
+Lemon Tree Hotels Ltd
+Consumer Discretionary
+Minda Corporation Ltd
+Consumer Discretionary
 Aditya Birla Lifestyle Brands Ltd
 Consumer Discretionary
-Techno Electric & Engineering Company Ltd
-Consumer Staples
-Aavas Financiers Ltd
-Choice International Ltd
-AFCONS INFRASTRUCTURE LIMITED EQ
-Niva Bupa Health Insurance Company Ltd.
-Sonata Software Ltd
-Consumer Discretionary
-Poly Medicure Ltd
-NMDC Steel Ltd.
-Gravita India Ltd
-JK Tyre & Industries Ltd
-Consumer Discretionary
-DHFL VYSYA HOUSING FINANCE LIMITED EQ
+Akzo Nobel India Ltd
 Chennai Petroleum Corporation Ltd
 Energy & Utilities
-Jyoti CNC Automation Ltd.
-JM Financial Ltd
-Minda Corporation Ltd
+Central Bank of India
+DHFL VYSYA HOUSING FINANCE LIMITED EQ
+Zydus Wellness Ltd
+Consumer Staples
+Fertilisers & Chemicals Travancore Ltd
+eClerx Services Ltd
+Tenneco Clean Air India Ltd.
+Consumer Discretionary
+Techno Electric & Engineering Company Ltd
+Bayer CropScience Ltd
+Caplin Point Laboratories Ltd
+Niva Bupa Health Insurance Company Ltd.
+Sonata Software Ltd
+Sumitomo Chemical India Ltd
+Shipping Corporation Of India Ltd
+Gravita India Ltd
+Jubilant Ingrevia Ltd
+Sun TV Network Ltd
+Consumer Discretionary
+Tejas Networks Ltd
+Consumer Staples
+Welspun India Ltd
 Consumer Discretionary
 Brainbees Solutions Ltd.
 Consumer Discretionary
-Sun TV Network Ltd
-Consumer Discretionary
-Shipping Corporation Of India Ltd
-Physicswallah Ltd.
-Consumer Staples
 Indian Overseas Bank
-Zydus Wellness Ltd
-Consumer Staples
-Graphite India Ltd
-Olectra Greentech Ltd
-Sarda Energy & Minerals Ltd
+NMDC Steel Ltd.
+JK Tyre & Industries Ltd
+Consumer Discretionary
+Consumer Discretionary
+AFCONS INFRASTRUCTURE LIMITED EQ
+Zensar Technologies Ltd
+Gujarat Mineral Development Corporation Ltd
 Devyani International Ltd
 Consumer Discretionary
+JM Financial Ltd
+Elecon Engineering Company Ltd
+Emmvee Photovoltaic Power Ltd.
+Energy & Utilities
+Sarda Energy & Minerals Ltd
+Supreme Petrochem Ltd
+Urban Company Ltd.
+Consumer Staples
 Swan Energy Ltd
 Consumer Discretionary
-Tenneco Clean Air India Ltd.
-Consumer Discretionary
-Elecon Engineering Company Ltd
-Ircon International Ltd
-Welspun India Ltd
 Consumer Discretionary
 Sapphire Foods India Ltd
 Consumer Discretionary
-Tejas Networks Ltd
-Consumer Discretionary
+Ircon International Ltd
 Bikaji Foods International Ltd
 Consumer Staples
-Consumer Discretionary
-Supreme Petrochem Ltd
-DCM Shriram Ltd
-Urban Company Ltd.
-Consumer Staples
-Caplin Point Laboratories Ltd
-UTI Asset Management Company Ltd
-Jupiter Wagons Ltd
+Concord Biotech Ltd.
+Action Construction Equipment Ltd
 DOMS Industries Ltd.
+Graphite India Ltd
+DCM Shriram Ltd
+UTI Asset Management Company Ltd
+Schloss Bangalore Ltd.
+Consumer Discretionary
+Anupam Rasayan India Ltd
+Transformers & Rectifiers India Ltd
 SBFC Finance Ltd
+Jupiter Wagons Ltd
 Clean Science And Technology Ltd
 International Gemmological Institute (India) Ltd.
 Consumer Discretionary
-Action Construction Equipment Ltd
-Anupam Rasayan India Ltd
-NUVOCO Vistas Corp Ltd
-Concord Biotech Ltd.
-Transformers & Rectifiers India Ltd
-Emmvee Photovoltaic Power Ltd.
-Energy & Utilities
-Signatureglobal (India) Ltd.
-Schloss Bangalore Ltd.
-Consumer Discretionary
 JSW Cement Ltd.
-BLS International Services Ltd
-Aditya Birla Fashion and Retail Ltd
-Consumer Discretionary
-ACME Solar Holdings Ltd.
-Energy & Utilities
-Saregama India Ltd
-Consumer Discretionary
-Consumer Discretionary
-Central Bank of India
 Allied Blenders And Distillers Ltd.
 Consumer Staples
-Tega Industries Ltd
+Saregama India Ltd
+Consumer Discretionary
+Aditya Birla Fashion and Retail Ltd
+Consumer Discretionary
 Aegis Vopak Terminals Ltd.
 Energy & Utilities
-Newgen Software Technologies Ltd
-Blue Dart Express Ltd
 Canara HSBC Life Insurance Company Ltd.
+Consumer Discretionary
+NUVOCO Vistas Corp Ltd
+BLS International Services Ltd
+Newgen Software Technologies Ltd
+Signatureglobal (India) Ltd.
+Blue Dart Express Ltd
+Consumer Discretionary
+Tega Industries Ltd
 RailTel Corporation India Ltd
-The India Cements Ltd
 Bombay Burmah Trading Corporation Ltd
 Consumer Staples
 Mangalore Refinery & Petrochemicals Ltd
 Energy & Utilities
-Consumer Discretionary
-RHI Magnesita India Ltd
-LatentView Analytics Ltd
+The India Cements Ltd
+Jain Resource Recycling Ltd.
 Travel Food Services Ltd.
 Consumer Discretionary
+RHI Magnesita India Ltd
 Tata Teleservices (Maharashtra) Ltd
 Gallantt Metal Ltd
-Jain Resource Recycling Ltd.
+LatentView Analytics Ltd
 Blue Jet Healthcare Ltd.
 C.E. Info Systems Ltd
 Minimum investments
@@ -376,7 +376,7 @@ Groww Arbitrage Fund Direct Growth
 Groww Nifty Private Bank Index Fund Direct Growth
 Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth
 Groww Nifty Smallcap 250 Index Fund Direct Growth
-Groww Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Aakash Ashokkumar Chauhan is the Current Fund Manager of Groww Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,548 Cr and the Latest NAV as of 13 Jul 2026 is ₹12.12.
+Groww Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Aakash Ashokkumar Chauhan is the Current Fund Manager of Groww Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,548 Cr and the Latest NAV as of 14 Jul 2026 is ₹11.99.
 The Groww Nifty Smallcap 250 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 0.25%, if redeemed within 7 days.
 Investment Objective
 The Scheme seeks to investment return that corresponds to the performance of Nifty Smallcap 250 Total Return Index subject to tracking error.

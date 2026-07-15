@@ -1,74 +1,81 @@
 Groww Value Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
-NAV: 13 Jul '26
+NAV: 14 Jul '26
 The expense ratio of this fund is 1.51%.
 Expense Ratio: 1.51%
 The benchmark index tracked by this fund is NIFTY 500 Total Return Index.
 Benchmark Index: NIFTY 500 Total Return Index
 Fund size (AUM)
-Net Receivables
-Net Receivables
+Bharti Airtel Ltd
 Reliance Industries Ltd
 Energy & Utilities
-Bharti Airtel Ltd
-State Bank of India
 Larsen & Toubro Ltd
-Tata Motors Ltd
-Consumer Discretionary
+State Bank of India
+Net Receivables
+Net Receivables
 Mrs. Bectors Food Specialities Ltd
 Consumer Staples
-SBI Life Insurance Company Ltd
 Ujjivan Small Finance Bank Ltd
+SBI Life Insurance Company Ltd
+Alkem Laboratories Ltd
 Yatharth Hospital & Trauma Care Services Ltd.
-Sandhar Technologies Ltd
+Tata Motors Ltd
+Consumer Discretionary
+Sanofi Consumer Healthcare India Ltd
 Consumer Discretionary
 Havells India Ltd
 Consumer Discretionary
-Energy & Utilities
-Max Financial Services Ltd
-Sanofi Consumer Healthcare India Ltd
-Alkem Laboratories Ltd
-Blue Jet Healthcare Ltd.
-Adani Ports and Special Economic Zone Ltd
-Home First Finance Company India Ltd
-Maruti Suzuki India Ltd
+Hawkins Cookers Ltd
 Consumer Discretionary
-Galaxy Surfactants Ltd
-Kotak Mahindra Bank Ltd
-Ambuja Cements Ltd
+Blue Jet Healthcare Ltd.
 Britannia Industries Ltd
 Consumer Staples
+Max Financial Services Ltd
+Energy & Utilities
+Tata Consultancy Services Ltd
+Home First Finance Company India Ltd
+Adani Ports and Special Economic Zone Ltd
+Galaxy Surfactants Ltd
+Ipca Laboratories Ltd
+Maruti Suzuki India Ltd
+Consumer Discretionary
+Campus Activewear Ltd
+Consumer Discretionary
+Techno Electric & Engineering Company Ltd
 The Jammu & Kashmir Bank Ltd
-Manappuram Finance Ltd
-Tech Mahindra Ltd
+Concord Biotech Ltd.
+Kotak Mahindra Bank Ltd
+Consumer Discretionary
 TVS Motor Company Ltd
 Consumer Discretionary
 Mahindra & Mahindra Ltd
 Consumer Discretionary
-Gland Pharma Ltd
-Five-Star Business Finance Ltd
-Sagility India Ltd.
+Ambuja Cements Ltd
 Apollo Hospitals Enterprise Ltd
-Shyam Metalics and Energy Ltd,
+Tech Mahindra Ltd
 LG Balakrishnan & Brothers Ltd
+Shyam Metalics and Energy Ltd,
+Glaxosmithkline Pharmaceuticals Ltd
+Interglobe Aviation Ltd
 Sun Pharmaceutical Industries Ltd
-Campus Activewear Ltd
-Consumer Discretionary
-Aptus Value Housing Finance India Ltd
-Hawkins Cookers Ltd
-Consumer Discretionary
 United Spirits Ltd
 Consumer Staples
+J Kumar Infraprojects Ltd
+Sandhar Technologies Ltd
+Consumer Discretionary
+Five-Star Business Finance Ltd
+Ashok Leyland Ltd
 Sharda Motor Industries Ltd
 Consumer Discretionary
-Sumitomo Chemical India Ltd
-Zinka Logistics Solutions Ltd.
-Indiqube Spaces Ltd.
-Cholamandalam Financial Holdings Ltd
-Alembic Pharmaceuticals Ltd
+Bharat Petroleum Corporation Ltd
+Energy & Utilities
+Gland Pharma Ltd
 Venus Pipes & Tubes Ltd
-Concord Biotech Ltd.
+Cholamandalam Financial Holdings Ltd
+Aptus Value Housing Finance India Ltd
+Sagility India Ltd.
 Hyundai Motor India Ltd.
 Consumer Discretionary
+Sumitomo Chemical India Ltd
 Minimum investments
 Min. for 1st investment
 Min. for 2nd investment
@@ -113,7 +120,7 @@ Groww Banking & Financial Services Fund Direct Growth
 Groww Multicap Fund Direct Growth
 Groww Small Cap Fund Direct Growth
 Groww Value Fund Direct Growth
-Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,548 Cr and the Latest NAV as of 13 Jul 2026 is ₹33.43.
+Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,548 Cr and the Latest NAV as of 14 Jul 2026 is ₹33.20.
 The Groww Value Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 1% if redeemed within 1 year.
 Investment Objective
 The Scheme seeks to generate returns through a combination of dividend income and capital appreciation by investing primarily in well-diversified portflio of value stocks.
