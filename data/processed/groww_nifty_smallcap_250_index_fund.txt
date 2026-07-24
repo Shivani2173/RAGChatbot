@@ -1,5 +1,5 @@
 Groww Nifty Smallcap 250 Index Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
-NAV: 22 Jul '26
+NAV: 23 Jul '26
 The expense ratio of this fund is 0.59%.
 Expense Ratio: 0.59%
 The benchmark index tracked by this fund is NIFTY Smallcap 250 Total Return Index.
@@ -330,13 +330,17 @@ Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth
 B. com, Masters in Finance.
 Prior to joining Groww MF he was associated with Groww Invest Tech Private Ltd (formerly known as Nextbillion Technology Pvt. Ltd).
 Also manages these schemes
+Groww Large Cap Fund Direct Growth
+Groww Value Fund Direct Growth
 Groww ELSS Tax Saver Fund Direct Growth
 Groww Aggressive Hybrid Fund Direct Growth
 Groww Nifty Total Market Index Fund Direct Growth
+Groww Banking & Financial Services Fund Direct Growth
 Groww Nifty Smallcap 250 Index Fund Direct Growth
 Groww Nifty Non Cyclical Consumer Index Fund Direct Growth
 Groww Nifty EV & New Age Automotive ETF FoF Direct Growth
 Groww Nifty India Defence ETF FoF Direct Growth
+Groww Multicap Fund Direct Growth
 Groww Nifty India Railways PSU Index Fund Direct Growth
 Groww Nifty 200 ETF FoF Direct Growth
 Groww Nifty 500 Momentum 50 ETF FoF Direct Growth
@@ -347,6 +351,7 @@ Groww Nifty Next 50 Index Fund Direct Growth
 Groww Multi Asset Allocation Fund Direct Growth
 Groww Nifty Capital Markets ETF FoF Direct Growth
 Groww Nifty Midcap 150 Index Fund Direct Growth
+Groww Small Cap Fund Direct Growth
 Groww Nifty PSE ETF FOF Direct Growth
 Groww BSE Hospitals ETF FoF Direct Growth
 Groww Nifty PSU Bank Index Fund Direct Growth
@@ -376,7 +381,7 @@ Groww Arbitrage Fund Direct Growth
 Groww Nifty Private Bank Index Fund Direct Growth
 Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth
 Groww Nifty Smallcap 250 Index Fund Direct Growth
-Groww Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Aakash Ashokkumar Chauhan is the Current Fund Manager of Groww Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,548 Cr and the Latest NAV as of 22 Jul 2026 is ₹11.92.
+Groww Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Aakash Ashokkumar Chauhan is the Current Fund Manager of Groww Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,548 Cr and the Latest NAV as of 23 Jul 2026 is ₹11.78.
 The Groww Nifty Smallcap 250 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 0.25%, if redeemed within 7 days.
 Investment Objective
 The Scheme seeks to investment return that corresponds to the performance of Nifty Smallcap 250 Total Return Index subject to tracking error.
