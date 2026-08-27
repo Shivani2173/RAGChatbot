@@ -1,5 +1,5 @@
 Groww Value Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
-NAV: 25 Aug '26
+NAV: 26 Aug '26
 The expense ratio of this fund is 1.45%.
 Expense Ratio: 1.45%
 The benchmark index tracked by this fund is NIFTY 500 Total Return Index.
@@ -8,74 +8,79 @@ Fund size (AUM)
 Bharti Airtel Ltd
 Reliance Industries Ltd
 Energy & Utilities
+Net Receivables
+Net Receivables
 Larsen & Toubro Ltd
 State Bank of India
-Net Receivables
-Net Receivables
-Mrs. Bectors Food Specialities Ltd
-Consumer Staples
 Ujjivan Small Finance Bank Ltd
 SBI Life Insurance Company Ltd
-Alkem Laboratories Ltd
+Blue Jet Healthcare Ltd.
 Yatharth Hospital & Trauma Care Services Ltd.
 Tata Motors Ltd
 Consumer Discretionary
+Campus Activewear Ltd
+Consumer Discretionary
 Sanofi Consumer Healthcare India Ltd
+Hawkins Cookers Ltd
+Consumer Discretionary
+Tata Consultancy Services Ltd
+Britannia Industries Ltd
+Consumer Staples
+Thyrocare Technologies Ltd
+TVS Motor Company Ltd
+Consumer Discretionary
+Concord Biotech Ltd.
+Home First Finance Company India Ltd
+Energy & Utilities
+Max Financial Services Ltd
+Mrs. Bectors Food Specialities Ltd
+Consumer Staples
+Maruti Suzuki India Ltd
+Consumer Discretionary
+Galaxy Surfactants Ltd
+Consumer Discretionary
+Tech Mahindra Ltd
+Adani Ports and Special Economic Zone Ltd
+Mahindra & Mahindra Ltd
 Consumer Discretionary
 Havells India Ltd
 Consumer Discretionary
-Hawkins Cookers Ltd
+Orient Electric Ltd
 Consumer Discretionary
-Blue Jet Healthcare Ltd.
-Britannia Industries Ltd
-Consumer Staples
-Max Financial Services Ltd
-Energy & Utilities
-Tata Consultancy Services Ltd
-Home First Finance Company India Ltd
-Adani Ports and Special Economic Zone Ltd
-Galaxy Surfactants Ltd
-Ipca Laboratories Ltd
-Maruti Suzuki India Ltd
-Consumer Discretionary
-Campus Activewear Ltd
-Consumer Discretionary
-Techno Electric & Engineering Company Ltd
-The Jammu & Kashmir Bank Ltd
-Concord Biotech Ltd.
+Shriram Transport Finance Company Ltd
 Kotak Mahindra Bank Ltd
+Techno Electric & Engineering Company Ltd
 Consumer Discretionary
-TVS Motor Company Ltd
-Consumer Discretionary
-Mahindra & Mahindra Ltd
-Consumer Discretionary
-Ambuja Cements Ltd
 Apollo Hospitals Enterprise Ltd
-Tech Mahindra Ltd
-LG Balakrishnan & Brothers Ltd
+Alkem Laboratories Ltd
 Shyam Metalics and Energy Ltd,
 Glaxosmithkline Pharmaceuticals Ltd
-Interglobe Aviation Ltd
-Sun Pharmaceutical Industries Ltd
 United Spirits Ltd
 Consumer Staples
-J Kumar Infraprojects Ltd
-Sandhar Technologies Ltd
-Consumer Discretionary
+Sun Pharmaceutical Industries Ltd
+LG Balakrishnan & Brothers Ltd
 Five-Star Business Finance Ltd
+Interglobe Aviation Ltd
 Ashok Leyland Ltd
+Sagility India Ltd.
+J Kumar Infraprojects Ltd
 Sharda Motor Industries Ltd
 Consumer Discretionary
-Bharat Petroleum Corporation Ltd
-Energy & Utilities
-Gland Pharma Ltd
+JK Lakshmi Cement Ltd
+Ipca Laboratories Ltd
+Elecon Engineering Company Ltd
+Sandhar Technologies Ltd
+Consumer Discretionary
+The Jammu & Kashmir Bank Ltd
 Venus Pipes & Tubes Ltd
+Tips Industries Ltd
+Consumer Discretionary
+Gland Pharma Ltd
 Cholamandalam Financial Holdings Ltd
 Aptus Value Housing Finance India Ltd
-Sagility India Ltd.
 Hyundai Motor India Ltd.
 Consumer Discretionary
-Sumitomo Chemical India Ltd
+Eris Lifesciences Ltd
 Minimum investments
 Min. for 1st investment
 Min. for 2nd investment
@@ -150,7 +155,7 @@ Groww Nifty PSU Bank Index Fund Direct Growth
 Groww Nifty Private Bank Index Fund Direct Growth
 Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth
 Groww Value Fund Direct Growth
-Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,997 Cr and the Latest NAV as of 25 Aug 2026 is ₹33.49.
+Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,997 Cr and the Latest NAV as of 26 Aug 2026 is ₹33.59.
 The Groww Value Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 1% if redeemed within 1 year.
 Investment Objective
 The Scheme seeks to generate returns through a combination of dividend income and capital appreciation by investing primarily in well-diversified portflio of value stocks.
