@@ -1,7 +1,7 @@
 Groww Nifty Smallcap 250 Index Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
-NAV: 31 Aug '26
-The expense ratio of this fund is 0.59%.
-Expense Ratio: 0.59%
+NAV: 01 Sep '26
+The expense ratio of this fund is 0.58%.
+Expense Ratio: 0.58%
 The benchmark index tracked by this fund is NIFTY Smallcap 250 Total Return Index.
 Benchmark Index: NIFTY Smallcap 250 Total Return Index
 Fund size (AUM)
@@ -302,9 +302,9 @@ Tax implication
 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
 Check past data
 Compare similar funds
+ITI Small Cap Fund Direct Growth
 Bandhan Small Cap Fund Direct Growth
-Invesco India Smallcap Fund Direct Growth
-Union Small Cap Fund Direct Growth
+Invesco India Small Cap Fund Direct Growth
 Sundaram Small Cap Fund Direct Growth
 Nippon India Small Cap Fund Direct Growth
 Fund management
@@ -384,7 +384,7 @@ Groww Arbitrage Fund Direct Growth
 Groww Nifty Private Bank Index Fund Direct Growth
 Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth
 Groww Nifty Smallcap 250 Index Fund Direct Growth
-Groww Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Aakash Ashokkumar Chauhan is the Current Fund Manager of Groww Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,997 Cr and the Latest NAV as of 31 Aug 2026 is ₹12.27.
+Groww Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Aakash Ashokkumar Chauhan is the Current Fund Manager of Groww Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹5,997 Cr and the Latest NAV as of 01 Sep 2026 is ₹12.26.
 The Groww Nifty Smallcap 250 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 0.25%, if redeemed within 7 days.
 Investment Objective
 The Scheme seeks to investment return that corresponds to the performance of Nifty Smallcap 250 Total Return Index subject to tracking error.
