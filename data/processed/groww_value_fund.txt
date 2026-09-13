@@ -5,82 +5,67 @@ Expense Ratio: 1.62%
 The benchmark index tracked by this fund is NIFTY 500 Total Return Index.
 Benchmark Index: NIFTY 500 Total Return Index
 Fund size (AUM)
-Bharti Airtel Ltd
 Reliance Industries Ltd
 Energy & Utilities
-Net Receivables
-Net Receivables
-Larsen & Toubro Ltd
+Bharti Airtel Ltd
 State Bank of India
-Ujjivan Small Finance Bank Ltd
-SBI Life Insurance Company Ltd
-Blue Jet Healthcare Ltd.
+Larsen & Toubro Ltd
 Yatharth Hospital & Trauma Care Services Ltd.
-Tata Motors Ltd
-Consumer Discretionary
-Campus Activewear Ltd
-Consumer Discretionary
-Sanofi Consumer Healthcare India Ltd
-Hawkins Cookers Ltd
-Consumer Discretionary
-Tata Consultancy Services Ltd
-Britannia Industries Ltd
-Consumer Staples
-Thyrocare Technologies Ltd
-TVS Motor Company Ltd
-Consumer Discretionary
-Concord Biotech Ltd.
-Home First Finance Company India Ltd
-Energy & Utilities
+Net Receivables
+Net Receivables
+Ujjivan Small Finance Bank Ltd
 Max Financial Services Ltd
-Mrs. Bectors Food Specialities Ltd
-Consumer Staples
-Maruti Suzuki India Ltd
-Consumer Discretionary
-Galaxy Surfactants Ltd
-Consumer Discretionary
-Tech Mahindra Ltd
-Adani Ports and Special Economic Zone Ltd
-Mahindra & Mahindra Ltd
-Consumer Discretionary
-Havells India Ltd
-Consumer Discretionary
-Orient Electric Ltd
-Consumer Discretionary
-Shriram Transport Finance Company Ltd
-Kotak Mahindra Bank Ltd
-Techno Electric & Engineering Company Ltd
-Consumer Discretionary
-Apollo Hospitals Enterprise Ltd
-Alkem Laboratories Ltd
-Shyam Metalics and Energy Ltd,
-Glaxosmithkline Pharmaceuticals Ltd
-United Spirits Ltd
-Consumer Staples
-Sun Pharmaceutical Industries Ltd
-LG Balakrishnan & Brothers Ltd
-Five-Star Business Finance Ltd
-Interglobe Aviation Ltd
-Ashok Leyland Ltd
 Sagility India Ltd.
-J Kumar Infraprojects Ltd
-Sharda Motor Industries Ltd
-Consumer Discretionary
-JK Lakshmi Cement Ltd
-Ipca Laboratories Ltd
-Elecon Engineering Company Ltd
-Sandhar Technologies Ltd
-Consumer Discretionary
-The Jammu & Kashmir Bank Ltd
-Venus Pipes & Tubes Ltd
-Tips Industries Ltd
-Consumer Discretionary
-Gland Pharma Ltd
-Cholamandalam Financial Holdings Ltd
-Aptus Value Housing Finance India Ltd
+Vedanta Aluminium Metal Ltd
+SBI Life Insurance Company Ltd
+Godrej Consumer Products Ltd
+Consumer Staples
+Galaxy Surfactants Ltd
 Hyundai Motor India Ltd.
 Consumer Discretionary
-Eris Lifesciences Ltd
+Sharda Motor Industries Ltd
+Consumer Discretionary
+Narayana Hrudayalaya Ltd
+Gujarat Industries Power Company Ltd
+Energy & Utilities
+Campus Activewear Ltd
+Consumer Discretionary
+Shyam Metalics and Energy Ltd,
+Tata Motors Ltd
+Consumer Discretionary
+Shriram Transport Finance Company Ltd
+Tata Consultancy Services Ltd
+Sanofi Consumer Healthcare India Ltd
+Ashok Leyland Ltd
+LG Balakrishnan & Brothers Ltd
+Hawkins Cookers Ltd
+Consumer Discretionary
+Thyrocare Technologies Ltd
+Mrs. Bectors Food Specialities Ltd
+Consumer Staples
+Home First Finance Company India Ltd
+Energy & Utilities
+Orient Electric Ltd
+Consumer Discretionary
+Tech Mahindra Ltd
+Havells India Ltd
+Consumer Discretionary
+Techno Electric & Engineering Company Ltd
+Elecon Engineering Company Ltd
+Consumer Discretionary
+Alkem Laboratories Ltd
+Venus Pipes & Tubes Ltd
+Alembic Pharmaceuticals Ltd
+Five-Star Business Finance Ltd
+J Kumar Infraprojects Ltd
+JK Lakshmi Cement Ltd
+Tenneco Clean Air India Ltd.
+Consumer Discretionary
+The Jammu & Kashmir Bank Ltd
+Tips Industries Ltd
+Consumer Discretionary
+Cholamandalam Financial Holdings Ltd
+Aptus Value Housing Finance India Ltd
 Minimum investments
 Min. for 1st investment
 Min. for 2nd investment

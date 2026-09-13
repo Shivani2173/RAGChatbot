@@ -6,9 +6,9 @@ The benchmark index tracked by this fund is Nifty Non-Cyclical Consumer Total Re
 Benchmark Index: Nifty Non-Cyclical Consumer Total Return Index
 Fund size (AUM)
 Bharti Airtel Ltd
-Consumer Staples
 Titan Company Ltd
 Consumer Discretionary
+Consumer Staples
 Hindustan Unilever Ltd
 Consumer Staples
 Asian Paints Ltd
@@ -20,19 +20,19 @@ Tata Consumer Products Ltd
 Consumer Staples
 The Indian Hotels Company Ltd
 Consumer Discretionary
-Britannia Industries Ltd
-Consumer Staples
 Avenue Supermarts Ltd
 Consumer Staples
-Varun Beverages Ltd
+Britannia Industries Ltd
 Consumer Staples
 Dixon Technologies (India) Ltd
 Consumer Discretionary
-Info Edge (India) Ltd
+Varun Beverages Ltd
 Consumer Staples
+Info Edge (India) Ltd
 FSN E-Commerce Ventures Ltd
 Consumer Discretionary
 United Spirits Ltd
+Consumer Staples
 Consumer Staples
 Godrej Consumer Products Ltd
 Consumer Staples
@@ -42,10 +42,10 @@ Vishal Mega Mart Ltd.
 Consumer Staples
 Colgate-Palmolive (India) Ltd
 Consumer Staples
-Page Industries Ltd
-Consumer Discretionary
 Dabur India Ltd
 Consumer Staples
+Page Industries Ltd
+Consumer Discretionary
 Tata Communications Ltd
 Jubilant FoodWorks Ltd
 Consumer Discretionary
