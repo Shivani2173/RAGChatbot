@@ -1,68 +1,62 @@
 Groww Value Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
-NAV: 14 Oct '26
+NAV: 15 Oct '26
 The expense ratio of this fund is 1.56%.
 Expense Ratio: 1.56%
 The benchmark index tracked by this fund is NIFTY 500 Total Return Index.
 Benchmark Index: NIFTY 500 Total Return Index
 Fund size (AUM)
+Bharti Airtel Ltd
 Reliance Industries Ltd
 Energy & Utilities
-Bharti Airtel Ltd
 State Bank of India
-Larsen & Toubro Ltd
 Yatharth Hospital & Trauma Care Services Ltd.
-Net Receivables
-Net Receivables
 Ujjivan Small Finance Bank Ltd
+Larsen & Toubro Ltd
+Net Receivables
+Net Receivables
 Max Financial Services Ltd
+Manipal Payment and Identity Solutions Ltd.
+Sharda Motor Industries Ltd
+Consumer Discretionary
+SBI Life Insurance Company Ltd
+Narayana Hrudayalaya Ltd
 Sagility India Ltd.
 Vedanta Aluminium Metal Ltd
-SBI Life Insurance Company Ltd
 Godrej Consumer Products Ltd
 Consumer Staples
 Galaxy Surfactants Ltd
-Hyundai Motor India Ltd.
-Consumer Discretionary
-Sharda Motor Industries Ltd
-Consumer Discretionary
-Narayana Hrudayalaya Ltd
 Gujarat Industries Power Company Ltd
 Energy & Utilities
-Campus Activewear Ltd
+LG Balakrishnan & Brothers Ltd
+Asset Reconstruction Company (India) Ltd.
+Hyundai Motor India Ltd.
 Consumer Discretionary
 Shyam Metalics and Energy Ltd,
-Tata Motors Ltd
+Campus Activewear Ltd
 Consumer Discretionary
-Shriram Transport Finance Company Ltd
-Tata Consultancy Services Ltd
-Sanofi Consumer Healthcare India Ltd
-Ashok Leyland Ltd
-LG Balakrishnan & Brothers Ltd
 Hawkins Cookers Ltd
 Consumer Discretionary
-Thyrocare Technologies Ltd
-Mrs. Bectors Food Specialities Ltd
-Consumer Staples
-Home First Finance Company India Ltd
+Tata Motors Ltd
+Consumer Discretionary
+Consumer Discretionary
+Sanofi Consumer Healthcare India Ltd
+Shriram Transport Finance Company Ltd
+Ashok Leyland Ltd
+Tata Consultancy Services Ltd
+Elecon Engineering Company Ltd
 Energy & Utilities
+Techno Electric & Engineering Company Ltd
+Tech Mahindra Ltd
 Orient Electric Ltd
 Consumer Discretionary
-Tech Mahindra Ltd
 Havells India Ltd
 Consumer Discretionary
-Techno Electric & Engineering Company Ltd
-Elecon Engineering Company Ltd
-Consumer Discretionary
 Alkem Laboratories Ltd
-Venus Pipes & Tubes Ltd
 Alembic Pharmaceuticals Ltd
 Five-Star Business Finance Ltd
 J Kumar Infraprojects Ltd
 JK Lakshmi Cement Ltd
 Tenneco Clean Air India Ltd.
-Consumer Discretionary
-The Jammu & Kashmir Bank Ltd
-Tips Industries Ltd
 Consumer Discretionary
 Cholamandalam Financial Holdings Ltd
 Aptus Value Housing Finance India Ltd
@@ -140,7 +134,7 @@ Groww Banking & Financial Services Fund Direct Growth
 Groww Multicap Fund Direct Growth
 Groww Small Cap Fund Direct Growth
 Groww Value Fund Direct Growth
-Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,199 Cr and the Latest NAV as of 14 Oct 2026 is ₹31.92.
+Groww Value Fund Direct Growth is a Equity Mutual Fund Scheme launched by Groww Mutual Fund. This scheme was made available to investors on 10 Apr 2008. Saptarshee Chatterjee is the Current Fund Manager of Groww Value Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,199 Cr and the Latest NAV as of 15 Oct 2026 is ₹32.14.
 The Groww Value Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 1% if redeemed within 1 year.
 Investment Objective
 The Scheme seeks to generate returns through a combination of dividend income and capital appreciation by investing primarily in well-diversified portflio of value stocks.
