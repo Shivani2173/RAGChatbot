@@ -13,8 +13,8 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Category average (
-Equity Thematic
-Equity Thematic
+Equity Sectoral
+Equity Sectoral
 Exit load, stamp duty and tax
 Exit load of 1%, if redeemed within 30 days.
 Stamp duty on investment:
